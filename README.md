@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently Studying Computer Science Engineering in SRM Institute Of Science and Technology
 - 📫 How to reach me: praneeth.vanaparthi@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <a href="https://www.github.com/PraneethVanaparthi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PraneethVanaparthi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -19,7 +18,7 @@ src="https://img.shields.io/github/followers/PraneethVanaparthi?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PraneethVanaparthi"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dPraneethVanaparthi's GitHub stats" /></a>
+<a href="http://www.github.com/PraneethVanaparthi"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PraneethVanaparthi's GitHub stats" /></a>
 
 <a href="http://www.github.com/PraneethVanaparthi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneethVanaparthi&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
