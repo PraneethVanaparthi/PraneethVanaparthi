@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Praneeth Vanaparthi
 ======================================================================================================================================
 <h4>Student | SRM Institute Of Science And Technology</h4>
-
+-    I'm Praneeth—the Infinite Glitch, a living paradox in the realm of code where disorder meets order. I’m the software architect who deconstructs old rules and commits to a revolutionary future.
 - 🔭 I’m currently Studying Computer Science Engineering in SRM Institute Of Science and Technology
 - 📫 How to reach me: praneeth.vanaparthi@gmail.com
 
